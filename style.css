@@ -29,9 +29,17 @@ header {
 }
 
 header h1 {
-    color: #fff;
+    color: #FFFFFF;
     font-size: 28px;
     font-weight: bold;
+}
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #e74c3c;
 }
 
 /* Hero */
