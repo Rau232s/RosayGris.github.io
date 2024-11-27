@@ -178,12 +178,12 @@ nav a:hover {
     color: #fff;
 }
 .imagen-servicio {
-    width: 500px; 
+    width: 350px; 
     height: auto;
 }
 
 .imagen-servicio {
-    width: 500px; 
+    width: 350px; 
     height: auto;
 
     .servicio {
@@ -194,7 +194,7 @@ nav a:hover {
 
 /* Estilo para la imagen */
 .imagen-servicio {
-    width: 500px; /* Ajusta el tamaño de la imagen (puedes cambiarlo según tu preferencia) */
+    width: 350px; /* Ajusta el tamaño de la imagen (puedes cambiarlo según tu preferencia) */
     height: auto; /* Mantiene la proporción de la imagen */
 }
 
