@@ -108,7 +108,7 @@ nav a:hover {
 
 .mapa-img {
     width: 100%;
-    max-width: 600px;
+    max-width: 700px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
@@ -178,10 +178,27 @@ nav a:hover {
     color: #fff;
 }
 .imagen-servicio {
-    width: 300px; 
+    width: 500px; 
     height: auto;
 }
 
 .imagen-servicio {
-    width: 100px; 
+    width: 500px; 
     height: auto;
+
+    .servicio {
+    display: flex; /* Utiliza flexbox para alinear elementos en línea */
+    align-items: center; /* Centra verticalmente los elementos */
+    gap: 20px; /* Espacio entre la imagen y el párrafo */
+}
+
+/* Estilo para la imagen */
+.imagen-servicio {
+    width: 500px; /* Ajusta el tamaño de la imagen (puedes cambiarlo según tu preferencia) */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
+/* Opcional: Puedes agregar algo de estilo al párrafo */
+.servicio p {
+    max-width: 500px; /* Puedes limitar el ancho del párrafo si lo deseas */
+}
