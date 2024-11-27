@@ -202,3 +202,14 @@ nav a:hover {
 .servicio p {
     max-width: 500px; /* Puedes limitar el ancho del párrafo si lo deseas */
 }
+/* Estilos para los enlaces en el footer */
+footer a {
+    font-family: 'Arial', sans-serif; /* O cualquier fuente cursiva que prefieras */
+    font-style: italic; /* Cursiva */
+    color: #808080; /* Color gris */
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+}
+
+footer a:hover {
+    color: #333333; /* Cambia el color a un gris más oscuro cuando el cursor pasa por encima */
+}
