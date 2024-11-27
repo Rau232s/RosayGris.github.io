@@ -115,7 +115,7 @@ nav a:hover {
 }
 
 .mapa-img:hover {
-    transform: scale(1.05);
+    transform: scale(1.2);
 }
 /* Contenedor del botón de compartir */
 .share-container {
