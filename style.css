@@ -24,8 +24,8 @@ header {
 }
 
 .logo {
-    max-width: 1180px;
-    margin-right: 1115px;
+    width: 1920px;
+    height: auto;
 }
 
 header h1 {
